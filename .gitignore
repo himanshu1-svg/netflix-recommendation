@@ -6,6 +6,7 @@ processed_data/netflix_parsed.csv
 
 # Model files - too big for GitHub
 models/
+*.pkl
 
 # Python cache
 __pycache__/
