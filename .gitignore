@@ -1,17 +1,12 @@
-# Raw data - too big to upload
+# Raw data - too big
 raw_data/
 
 # Processed CSV - too big
 processed_data/netflix_parsed.csv
 
-# Python cache files
+# Model files - too big for GitHub
+models/
+
+# Python cache
 __pycache__/
 *.pyc
-*.pyo
-
-# VS Code settings
-.vscode/
-
-# Windows files
-Thumbs.db
-desktop.ini
